@@ -1,2 +1,2 @@
 # Nici
-Noob
+Error 404
